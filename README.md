@@ -7,7 +7,7 @@ Crops a fully stitched panorama with black/white background.
 | Original image | ![out_6_NSH](https://user-images.githubusercontent.com/28588878/143262116-10a768b1-d791-4758-86a9-2d2b906e8644.jpg) |
 | Cropped image | ![cropped1](https://user-images.githubusercontent.com/28588878/143262859-213860cb-1e2f-4986-9c2d-e1bec2d368a2.jpg) |
 
-# Example 2: Dark background
+# Example 2: Black background
 | Type | Images |
 | --- | --- |
 | Original image | ![result_26](https://user-images.githubusercontent.com/28588878/143264138-cbb7b009-569b-426e-81f2-14d8eacad415.jpg) |
@@ -19,5 +19,5 @@ Python + external libraries <br />
 OpenCV <br />
 
 # MATLAB Central
-
+[![View Panorama image cropper on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/102554-panorama-image-cropper)
 

@@ -21,3 +21,4 @@ OpenCV <br />
 # MATLAB Central
 [![View Panorama image cropper on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/102554-panorama-image-cropper)
 
+Please rate and provide feedback for the further improvements.

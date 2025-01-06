@@ -17,8 +17,6 @@ Crops a fully stitched panorama with black/white background.
 
 # Requirements
 MATLAB <br />
-Python + external libraries <br />
-OpenCV <br />
 
 # Citation
 Panorama image cropper code for cropping the stitched image was implemented in my Ph.D. dissertation and made available to the public. If you use this code in your research, please use the following BibTeX entry to cite:
